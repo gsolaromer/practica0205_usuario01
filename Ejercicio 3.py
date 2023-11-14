@@ -15,7 +15,6 @@ def calcular_volumen_cilindro(radio, altura):
     area_base = calcular_area_circulo(radio)
     volumen = area_base * altura
     return volumen
-
 # Ejemplo de uso:
 radio_circulo = 3
 altura_cilindro = 5

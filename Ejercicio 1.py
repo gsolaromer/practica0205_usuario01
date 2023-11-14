@@ -1,4 +1,8 @@
 def saludar(nombre):
+    """
+    Saluda al usuario utilizando el nombre proporcionado.
+
+    """
     print(f"¡Hola {nombre}!")
 # Ejemplo de uso:
 pregunta = input("¿Cómo se llama?")

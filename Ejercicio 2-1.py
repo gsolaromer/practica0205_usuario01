@@ -1,4 +1,8 @@
 def factorial_bucle(n):
+    """
+    Calcula el factorial de un número utilizando un bucle.
+
+    """
     resultado = 1
     for i in range(1, n + 1):
         resultado *= i
